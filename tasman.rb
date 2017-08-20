@@ -7,5 +7,5 @@ get '/' do
 end
 
 get '/version' do
-  "Current verion: 2"
+  "Current verion: 3"
 end
